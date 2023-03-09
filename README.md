@@ -22,7 +22,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FlaviaSena"><img src="https://avatars.githubusercontent.com/u/106356705?v=4" width="100px;" alt="Flavia"/><br /><sub><b>Flavia Sena</b></sub></a><br /><a href="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web" title="Code"></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kakaroto27"><img src="https://avatars.githubusercontent.com/u/115802574?v=4" width="100px;" alt="andre"/><br /><sub><b>André Carlos</b></sub></a><br /><a href="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web" title="Code"></a></td>
         <td align="center" valign="top" width="14.28%"><a href="https://github.com/Pamela-fc"><img src="https://avatars.githubusercontent.com/u/115364351?v=4" width="100px;" alt="Pamela"/><br /><sub><b>Pâmela</b></sub></a><br /><a href="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web" title="Code"></a></td>
-        <td align="center" valign="top" width="14.28%"><a href="https://github.com/Liipex"><img src="https://avatars.githubusercontent.com/u/115789467?v=4" width="100px;" alt="Lipe"/><br /><sub><b>Luis Felipe</b></sub></a><br /><a href="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web" title="Code"></a></td>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/Liipex"><img src="https://avatars.githubusercontent.com/u/115789467?v=4" width="100px;" alt="Lipe"/><br /><sub><b>Felipe Lopes</b></sub></a><br /><a href="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web" title="Code"></a></td>
         <td align="center" valign="top" width="14.28%"><a href="https://github.com/clarasouza2005"><img src="https://avatars.githubusercontent.com/u/115711775?v=4" width="100px;" alt="clara"/><br /><sub><b>Clara</b></sub></a><br /><a href="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web" title="Code"></a></td>
     </tr>
   </tbody>
@@ -99,13 +99,13 @@ múltipla, agregação, subconsultas, ordenação, joins, etc.🌟**
 <div align="center">
 
 ### Pergunta 1: Quais os 5 episódios mais comentados pela internet?
-<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP1.png?raw=true" alt= “” width="800" height="600">
+<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP1.png?raw=true">
 
 ### Pergunta 2: Quais temporadas e episódios foram dirigidos por Alana Taylor?
-<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP2.png?raw=true" alt= “” width="800" height="600">
+<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP2.png?raw=true">
 
 ### Pergunta 3: Quais casas estão localizadas no norte(north)?
-<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP3.png?raw=true" alt= “” width="800" height="600">
+<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP3.png?raw=true">
 
 ### Pergunta 4: Quantas famílias tem a série e quantas são da Ilhas de Ferro(Iron Islands)?
 
@@ -114,6 +114,6 @@ múltipla, agregação, subconsultas, ordenação, joins, etc.🌟**
 
 ### Pergunta 5: Qual temporada(season) tem mais episódios com nota acima de 9?
 
-<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP5V.png?raw=true" alt= “” width="800" height="600">
+<img src="https://github.com/FlaviaSena/Projeto_em_Grupo_M4_Desenvolvimento_Web/blob/main/Gr%C3%A1ficos/graficoP5.png?raw=true">
 
 </div>
